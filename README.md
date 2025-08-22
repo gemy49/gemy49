@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me  
-💻 I'm a passionate **Full-Stack Developer** skilled in both frontend and backend.  
+💻 I'm a passionate **Flutter Developer** skilled in both frontend and backend.  
 ⚡ I enjoy building **mobile apps, web apps, IoT projects**, and experimenting with new technologies.  
-🎯 Currently improving my skills in **React Native & Next.js**.  
+🎯 Currently improving my skills in **React Native & React.js & Node.js**.  
 
 ---
 
@@ -71,8 +71,8 @@
 ## 🌍 Connect with Me  
 <p align="left">
   <a href="mailto:mohamed.gamal1579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohamed-gamal"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mohamed-gamal"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-gamal-510552258/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gemy49"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
